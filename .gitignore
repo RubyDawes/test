@@ -2,3 +2,5 @@
 *.jpg
 # ignore plots folder
 receipts/plots/
+*/.DS_Store
+.DS_Store
